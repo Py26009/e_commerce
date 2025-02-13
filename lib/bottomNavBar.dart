@@ -1,8 +1,8 @@
-import 'package:e_commerce_app/AccountPage.dart';
-import 'package:e_commerce_app/MyHomePage.dart';
-import 'package:e_commerce_app/WishList.dart';
-import 'package:e_commerce_app/cartPage.dart';
-import 'package:e_commerce_app/settingsPage.dart';
+import 'package:e_commerce_app/Screens/AccountPage.dart';
+import 'package:e_commerce_app/Screens/MyHomePage.dart';
+import 'package:e_commerce_app/Screens/WishList.dart';
+import 'package:e_commerce_app/Screens/cartPage.dart';
+import 'package:e_commerce_app/Screens/settingsPage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

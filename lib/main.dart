@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/MyHomePage.dart';
+import 'package:e_commerce_app/Screens/MyHomePage.dart';
 import 'package:e_commerce_app/bottomNavBar.dart';
 import 'package:flutter/material.dart';
 
